@@ -8,7 +8,7 @@ body ul {
 }
 
 #main {
-  margin-top: 2em;
+  margin-top: 1em;
   background-color: #eeeeee;
 }
 
@@ -33,7 +33,7 @@ img {
 }
 
 #img-div {
-  background-color: #ffffff;
+  background-color: black;
   padding: 1em;
 }
 
